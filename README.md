@@ -1,1 +1,1 @@
-# cfgs
+# random cfgs that i may need in future or someone can make use of
